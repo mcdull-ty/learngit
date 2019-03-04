@@ -1,0 +1,8 @@
+this 
+is
+file 
+2 
+new 
+add 
+in 
+learngit
